@@ -1,0 +1,1 @@
+INSERT INTO rol(nomrol) VALUES('GESTOR'),('COORDINADOR');
